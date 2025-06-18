@@ -1,0 +1,7 @@
+[project]
+name = "riichi-mahjong-league-table"
+version = "0.1.0"
+description = "This project was created to help with the scoring system for a Riichi Mahjong league. It containsa simple realtional database to keep track of players, scores and the overall league positions. The idea is to provide a user friendly interface for the league managers to update scores and dispaly the league table on their website."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
